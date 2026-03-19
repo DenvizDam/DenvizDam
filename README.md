@@ -16,8 +16,13 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,react,postgres,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker" />
+</p>
 
+<p align="center">
+  📊 Data Visualization • 📈 Power BI • 📉 Dashboarding
+</p>
 
 
 ## 📊 Featured Projects
