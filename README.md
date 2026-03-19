@@ -29,7 +29,7 @@
 ## 🌐 My Portfolio
 
 * ✨ Check out my personal website here:
-* 👉 portfolio-zeta-flame-54.vercel.app
+* 👉 https://portfolio-zeta-flame-54.vercel.app/
 
 ## 📫 Contact
 
